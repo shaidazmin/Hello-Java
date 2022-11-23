@@ -1,3 +1,16 @@
 Sold Qty 3 price 9000
 
 sold qty 10 price 30000
+
+
+git init > Init Project
+git add . > Add everything
+git status > Show Status what we did
+git commit -m "message" > Add Message 
+git log > Show History
+git log --oneline > Show History Summary
+
+git remote addd origin {repo url} > Add Github 
+
+git push -u origin master > update our code into Github
+
