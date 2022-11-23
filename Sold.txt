@@ -1,1 +1,3 @@
 Sold Qty 3 price 9000
+
+sold qty 10 price 30000
